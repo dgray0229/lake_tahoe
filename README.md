@@ -1,7 +1,7 @@
 # Lake Tahoe
 Lake Tahoe Website Project from Team Treehouse
 
-[Lake Tahoe](http://laketahoe.devingray.me)
+[Lake Tahoe](http://laketahoe.devingrayllc.com)
 
 This is a website project from Team Treehouse. Here I've created a single page site practicing many of the fundamentals of CSS. I've created multiple versions of this site, but here is the simplest version. In other versions of this site, I've used flexbox to style a lot of the responsiveness of the website, but in this version, I used floats and clearfixes to style my site. 
 
